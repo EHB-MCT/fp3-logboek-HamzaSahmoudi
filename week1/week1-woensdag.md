@@ -10,23 +10,23 @@
 
 _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
-- Ik heb meer taken ingevuld op het scrum board.
-- Samen met mijn groep hebben we in aula 1 besproken welke nieuwe functionaliteiten/features op de website moeten komen.
-- Ik heb mijn moodboard aangemaakt en mijn 2 persona's gemaakt.
-- feedback vragen aan soulaimane voor mijn moodboard
-- Ik ben begonnen aan de wireframe van de homepage en dit besproken met anderen over hoe we dit gaan aanpakken.
-- Ik heb feedback gegeven op het concept van Rina.
+- Ik ben begonnen met het aanpassen van het scrum board voor deze dag.
+- Daarna heb ik verder gewerkt aan de wireframe, specifiek de origami-pagina. Toen ik klaar was, heb ik hulp gevraagd aan Rina om het   te verbeteren.
+- Ik heb mijn teamgenoten geholpen met hun wireframes als ze vragen hadden.
+- We hebben samen de moodboards van iedereen bekeken en besproken welke we gaan kiezen.
+- Na de bespreking ben ik samen met Rayan begonnen met het coderen.
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
 _Instructie (1 item per dag volstaat):_
 
-Ik heb geleerd hoe ik mijn teamgenoten beter kan motiveren door duidelijk te communiceren wat ze moeten doen en wat de volgende stappen zijn.
+Ik heb geleerd dat ik hulp kan vragen aan mijn teamleaden als ik ergens moeite mee heb.
 
 ## 3) Wat is mijn gevoel over vandaag?
 
 _Instructie:_
 
-Tevreden 😁: Ik ben blij met wat we vandaag hebben bereikt, en de leerkrachten lijken overtuigd van ons project.
+Tevreden 😊: Ik ben blij dat we goed bezig zijn en dat we een sterk team aan het worden zijn.
+Moe 🥱: Aan het einde van de dag was ik echt doodmoe en kon mijn hoofd niet meer goed werken.
 
 _Kopieer dit sjabloon voor je volgende dagen en pas de antwoorden telkens aan!_
