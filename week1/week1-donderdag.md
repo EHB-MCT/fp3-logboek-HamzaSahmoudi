@@ -19,7 +19,7 @@ _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 _Instructie (1 item per dag volstaat):_
 
-Ik heb een nieuwe methode geleerd om te coderen, specifiek hoe je een chatbot kunt maken. Dit wist ik eerder niet.
+Ik heb een nieuwe methode geleerd om te coderen, specifiek hoe je een chatbot kunt maken. Dit wist ik vroeger niet.
 
 ## 3) Wat is mijn gevoel over vandaag?
 
