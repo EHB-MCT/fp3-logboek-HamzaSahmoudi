@@ -11,7 +11,7 @@
 _Instructie (schrijf in bullets waar je aan gewerkt hebt):_
 
 - Eerst heb ik geprobeerd om de problemen met de chatbot op te lossen.
-- Aan het einde van de dag heb ik samen met Rayan een merge-conflict opgelost.
+- Aan het einde van de dag heb ik de merge gedaan van de branch van Dikra en Rina en dan de merge-conflicten opgelost.
 - Ik heb de pagina van methodieken gemaakt, eerst in desktopversie en daarna in mobiele versie.
 - Vervolgens heb ik ervoor gezorgd dat de filterfunctionaliteit werkt.
 
